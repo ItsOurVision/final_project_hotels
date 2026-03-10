@@ -169,7 +169,9 @@ scraping_agoda.py
 ```
 
 contains a scraping script used to collect hotel listing data from **Agoda** during the data collection phase.
-Important: there are 2 more datasets not included here of Airbnb and Booking which part of the unified data set, due to copyrights we can't add them here.
+
+**Important: there are 2 more datasets not included here of Airbnb and Booking which part of the unified data set, due to copyrights we can't add them here.**
+
 ---
 
 # 👨‍💻 Authors
